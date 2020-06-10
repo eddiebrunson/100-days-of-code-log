@@ -3293,6 +3293,9 @@ It'll go something like this:
 - Twitter account
 - FreeCode Camp 
 - Update Github Notes Repo for Cloud Developer Nanodegree and React Nanodegree 
+- Continue working through Cloud Developer lessons Monolith vs. Mircoservices 
+- Read [AWS White Pages Overview of Deployment Options on AWS](https://d1.awsstatic.com/whitepapers/overview-of-deployment-options-on-aws.pdf?did=wp_card&trk=wp_card)
+- Read about [Mircoservices](https://martinfowler.com/articles/microservices.html)
 
 **Progress:**  Prep work...Today was time spent on setup/updating github repos. This includes:
 
@@ -3302,6 +3305,9 @@ It'll go something like this:
   - Got [my Twitter account](https://twitter.com/webdev_eddie "Eddie Brunson on Twitter") going (@webdev_eddie)
 - Tweet'd my commitment to the 100-days-of-code challenge
 
+- Study Cloud Developer 
+  - Took Notes 
+  - Read AWS Whitepaper and information regarding Microservies
 **Link to work:**
 
 - My GitHub [100-days-of-code-log](https://github.com/eddiebrunson/100-days-of-code-log "this repo")
