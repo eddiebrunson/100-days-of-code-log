@@ -1,13 +1,13 @@
 <!-- markdownlint-disable MD022 MD032 -->
 
-[<-- back to Table of Contents](https://james-priest.github.io/100-days-log/)
-# James Priest
+[<-- back to Table of Contents](https://eddie_brunson.github.io/100-days-log/)
+# Eddie Brunson 
 
 ## 100 Days Of Code
 
-| Log 1 | Log 2 | Log 3 | Log 4 | Log 5 |
+<!-- | Log 1 | Log 2 | Log 3 | Log 4 | Log 5 |
 | --- | --- | --- | --- | --- |
-| this log | [100 Days Round 2](https://james-priest.github.io/100-days-of-code-log-r2/) | [100 Days Round 3](https://james-priest.github.io/100-days-of-code-log-r3/) | [100 Days Round 4](https://james-priest.github.io/100-days-of-code-log-r4/) | [100 Days Round 5](https://james-priest.github.io/100-days-log/log5.html) |
+| this log | [100 Days Round 2](https://james-priest.github.io/100-days-of-code-log-r2/) | [100 Days Round 3](https://james-priest.github.io/100-days-of-code-log-r3/) | [100 Days Round 4](https://james-priest.github.io/100-days-of-code-log-r4/) | [100 Days Round 5](https://james-priest.github.io/100-days-log/log5.html) | -->
 
 ## Challenge & Commitment
 This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway/100-days-of-code "the official repo") challenge. More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/ "100daysofcode.com").
@@ -16,23 +16,23 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| June 12, 2017 | January 25, 2018 |
+| June 09, 2020 | September 16, 2020 |
 
 ## Goals
 
 - [x] Code daily
-- [x] Expand portfolio
-- [x] Hone my Git CLI skills
+- [x] Create portfolio
+- [x] Improve markdown and overall git skills
 - [x] Complete as many courses, classes, challenges, & certifications as possible
-- [x] Get established in Twitter dev community
+- [x] Improve my social media pressance in Twitter/Ig dev community
   - This has been awesome!
   - Great support and encouragement from my Twitter family!
   - Use [#100DaysOfCode](https://twitter.com/search?q=%23100DaysOfCode&src=tyah) hashtag.
 
 ### Secondary Goals & Resources
 
-- [x] Complete as many [Code School courses](https://www.codeschool.com) as possible. These are highly focused, subject matter classes that can be completed in a week's time. **Completed 18 courses!**
-- [x] Got accepted into the [#GrowWithGoogle](https://twitter.com/search?q=%23GrowWithGoogle&src=tyah) Challenge Scholarship and will be doing the [#GoogleUdacityScholars](https://twitter.com/search?q=%23GoogleUdacityScholars&src=tyah) program as part of #100DaysOfCode Round Two!
+- [x] Complete [Udacity's React Nanodegree](https://www.udacity.com/course/react-nanodegree--nd019) as well as the [Cloud Developer Nanodegree](https://www.udacity.com/course/cloud-developer-nanodegree--nd9990). 
+- [x] Complete as many [Freecodecamp](https://www.freecodecamp.org/) exerecises/lessons as well as [Codecademy](https://www.codecademy.com/) 
 
   <!--
   - [ ] Complete [FCC Front End Development Certification](https://www.freecodecamp.com/james-priest "FCC Profile") program
@@ -60,7 +60,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 -->
 
 ---
-
+<!-- 
 ## Final Thoughts for Round 1
 ### January 26, 2018
 
@@ -862,6 +862,7 @@ This is just one example of the lack of standard behavior across browsers. Appar
 ### Day 79: December 11, 2017 - Monday
 
 <!-- **Project:** To write a CSS code editor in JavaScript for embedding into a web page or web app. -->
+<!--
 **Project:** To write a web-based CSS code editor in JavaScript for embedding in a web page.
 
 **Progress:** How hard could it be, right?😁😉
@@ -2611,6 +2612,8 @@ In the end, it's the design that makes CodePen attractive.
 
 ---
 
+-->
+<!--
 ## 22. JavaScript VM Internals
 ### Day 22: July 31, 2017 - Monday
 
@@ -2629,10 +2632,12 @@ Let's look at this example...
 
 (column 1 & columns 3: _compilation phase_; column 2 & column 4: _execution phase_)
 
+-->
+<!--
 ```javascript
  1 var a = 2;             // Global Scope (Window)
  2 b = 1;                 // a | a=2    |   |
- 3                        // f | f="λf" |---|------> Lambda "f"
+ 3                        // f | f="λf" |---|------ Lambda "f" 
  4 function f(z) {        //   | b=1    |   | b=3    ('b' created at runtime)
  5     b = 3;             //   |        |   | c=4
  6     c = 4;             // ------------------------
@@ -2640,7 +2645,7 @@ Let's look at this example...
  8     e = 1;             // Local execution scope for f()
  9                        // z | z=1    |   |
 10     function g() {     // d | d=6    |   | d=18
-11         var e = 0;     // g | g="λg" |---|------> Lambda "g"
+11         var e = 0;     // g | g="λg" |---|------ Lambda "g"
 12         d = 3 * d;     //   | e=1    |   |
 13         return d;      // ------------------------
 14     }
@@ -3278,25 +3283,27 @@ It'll go something like this:
 
 ---
 
+-->
 ## Pre-launch - GitHub, Twitter & Free Code Camp
-### Day 0: June 9, 2017 - Friday
+### Day 0: June 9, 2020 - Tuesday
 
 **Today's Project(s):**
 
 - GitHub profile
 - Twitter account
-- FCC Profile
+- FreeCode Camp 
+- Update Github Notes Repo for Cloud Developer Nanodegree and React Nanodegree 
 
-**Progress:**  Prep work...Today was time spent on setup. This includes:
+**Progress:**  Prep work...Today was time spent on setup/updating github repos. This includes:
 
 - Setup
   - Forked the Official [100-days-of-code GitHub Repo](https://github.com/Kallaway/100-days-of-code "Official #100DaysOfCode GitHub Repo")
-  - Updated [my GitHub profile](https://github.com/james-priest "James Priest on GitHub") (@james-priest)
-  - Got [my Twitter account](https://twitter.com/james_priest1 "James Priest on Twitter") going (@james_priest1)
+  - Updated [my GitHub profile](https://github.com/eddiebrunsont "Eddie Brunson on GitHub") (@Eddiebrunson)
+  - Got [my Twitter account](https://twitter.com/webdev_eddie "Eddie Brunson on Twitter") going (@webdev_eddie)
 - Tweet'd my commitment to the 100-days-of-code challenge
 
 **Link to work:**
 
-- My GitHub [100-days-of-code-log](https://github.com/james-priest/100-days-of-code-log "this repo")
+- My GitHub [100-days-of-code-log](https://github.com/eddiebrunson/100-days-of-code-log "this repo")
 
 **Thoughts:** Glad to be starting this.
